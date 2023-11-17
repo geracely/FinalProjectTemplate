@@ -10,8 +10,9 @@ What are some ideas for your project? Why does that interest you?
     * Group memebers contribute valuable information everyday in the chat group. But it's hard for memebers to remember everthing if we don't note down these informaiton. As time passes, we tend to forget most of them.
   * Free-rider problem:
   * Some people are actively sharing information in the group, but some are just consumers of info. Those who keeps providing new infomation will feel less incentived if we don't have any incentives or punishment to encourage sharing.
-<br> </br>
-use cases:
+<br></br>
+
+**use cases:**
 1. track discussion content in the chat group 
     - get data: speaker, time, content(str)  **how to deal with image?** 
     - use special string (such as $, #) to add label as topic 
